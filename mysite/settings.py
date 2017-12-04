@@ -25,7 +25,7 @@ SECRET_KEY = '_p+(4p5od@w(on*x7!&29(s8p6slwhz+ecs03fr$re4fu(z=7c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Sharecipe>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Sharecipe.pythonanywhere.com']
 
 
 # Application definition
